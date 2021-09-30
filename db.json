@@ -1,0 +1,48 @@
+{
+    "fajas": [
+        {
+            "colours": ["Black", "White"],
+            "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at. Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.",
+            "image": "/_nuxt/assets/image-product.jpg",
+            "name": "Cinturilla de Avispa en Latex Fusionado",
+            "price": 90000,
+            "ref": "123321",
+            "sizes": ["S","M","L","XL","XXL"],
+            "slug": "cinturilla-de-avispa-en-latex-fusionado"
+
+        },
+        {
+            "colours": ["Black", "White"],
+            "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at. Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.",
+            "image": "/_nuxt/assets/image-product.jpg",
+            "name": "Cinturilla de Avispa en Latex Fusionado",
+            "price": 90000,
+            "ref": "123321",
+            "sizes": ["S","M","L","XL","XXL"],
+            "slug": "cinturilla-de-avispa"
+
+        },
+        {
+            "colours": ["Black", "White"],
+            "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at. Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.",
+            "image": "/_nuxt/assets/image-product.jpg",
+            "name": "Cinturilla de Avispa en Latex Fusionado",
+            "price": 90000,
+            "ref": "123321",
+            "sizes": ["S","M","L","XL","XXL"],
+            "slug": "cinturilla"
+
+        },
+        {
+            "colours": ["Black", "White"],
+            "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at. Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.",
+            "image": "/_nuxt/assets/image-product.jpg",
+            "name": "Cinturilla de Avispa en Latex Fusionado",
+            "price": 90000,
+            "ref": "123321",
+            "sizes": ["S","M","L","XL","XXL"],
+            "slug": "cinturilla-fusionado"
+
+        }
+    ]
+}
