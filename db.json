@@ -3,49 +3,46 @@
         {
             "colours": ["Black", "White"],
             "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at. Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.",
-            "image": "/_nuxt/assets/image-product.jpg",
+            "id": 1,
+            "image": "https://firebasestorage.googleapis.com/v0/b/fityaweb.appspot.com/o/cinturillas%2Fcinturilla.jpg?alt=media&token=37eb6323-f505-4da7-abaf-f2d05da9794a",
             "name": "Cinturilla de Avispa en Latex Fusionado",
             "price": 90000,
             "ref": "123321",
             "sizes": ["S","M","L","XL","XXL"],
-            "slug": "cinturilla-de-avispa-en-latex-fusionado",
-            "id": 1
+            "slug": "cinturilla-de-avispa-en-latex-fusionado"
         },
         {
             "colours": ["Black", "White"],
             "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at. Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.",
-            "image": "/_nuxt/assets/image-product.jpg",
+            "id": 2,
+            "image": "https://firebasestorage.googleapis.com/v0/b/fityaweb.appspot.com/o/cinturillas%2Fcinturilla.jpg?alt=media&token=37eb6323-f505-4da7-abaf-f2d05da9794a",
             "name": "Cinturilla de Avispa en Latex Fusionado",
             "price": 90000,
             "ref": "123321",
             "sizes": ["S","M","L","XL","XXL"],
-            "slug": "cinturilla-de-avispa",
-            "id": 2
-
+            "slug": "cinturilla-de-avispa"
         },
         {
             "colours": ["Black", "White"],
             "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at. Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.",
-            "image": "/_nuxt/assets/image-product.jpg",
+            "id": 3,
+            "image": "https://firebasestorage.googleapis.com/v0/b/fityaweb.appspot.com/o/cinturillas%2Fcinturilla.jpg?alt=media&token=37eb6323-f505-4da7-abaf-f2d05da9794a",
             "name": "Cinturilla de Avispa en Latex Fusionado",
             "price": 90000,
             "ref": "123321",
             "sizes": ["S","M","L","XL","XXL"],
-            "slug": "cinturilla",
-            "id": 3
-
+            "slug": "cinturilla"
         },
         {
             "colours": ["Black", "White"],
             "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at. Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.",
-            "image": "/_nuxt/assets/image-product.jpg",
+            "id": 4,
+            "image": "https://firebasestorage.googleapis.com/v0/b/fityaweb.appspot.com/o/cinturillas%2Fcinturilla.jpg?alt=media&token=37eb6323-f505-4da7-abaf-f2d05da9794a",
             "name": "Cinturilla de Avispa en Latex Fusionado",
             "price": 90000,
             "ref": "123321",
             "sizes": ["S","M","L","XL","XXL"],
-            "slug": "cinturilla-fusionado",
-            "id": 4
-
+            "slug": "cinturilla-fusionado"
         }
     ]
 }
