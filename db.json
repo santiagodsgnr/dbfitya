@@ -1,7 +1,7 @@
 {
     "fajas": [
         {
-            "colours": ["Black", "White"],
+            "colours": ["black", "#F1E8C4"],
             "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at. Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.",
             "id": 1,
             "image": "https://firebasestorage.googleapis.com/v0/b/fityaweb.appspot.com/o/cinturillas%2Fcinturilla.jpg?alt=media&token=37eb6323-f505-4da7-abaf-f2d05da9794a",
@@ -12,7 +12,7 @@
             "slug": "cinturilla-de-avispa-en-latex-fusionado"
         },
         {
-            "colours": ["Black", "White"],
+            "colours": ["black", "#F1E8C4"],
             "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at. Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.",
             "id": 2,
             "image": "https://firebasestorage.googleapis.com/v0/b/fityaweb.appspot.com/o/cinturillas%2Fcinturilla.jpg?alt=media&token=37eb6323-f505-4da7-abaf-f2d05da9794a",
@@ -23,7 +23,7 @@
             "slug": "cinturilla-de-avispa"
         },
         {
-            "colours": ["Black", "White"],
+            "colours": ["black", "#F1E8C4"],
             "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at. Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.",
             "id": 3,
             "image": "https://firebasestorage.googleapis.com/v0/b/fityaweb.appspot.com/o/cinturillas%2Fcinturilla.jpg?alt=media&token=37eb6323-f505-4da7-abaf-f2d05da9794a",
@@ -34,7 +34,7 @@
             "slug": "cinturilla"
         },
         {
-            "colours": ["Black", "White"],
+            "colours": ["black", "#F1E8C4"],
             "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at. Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.",
             "id": 4,
             "image": "https://firebasestorage.googleapis.com/v0/b/fityaweb.appspot.com/o/cinturillas%2Fcinturilla.jpg?alt=media&token=37eb6323-f505-4da7-abaf-f2d05da9794a",
