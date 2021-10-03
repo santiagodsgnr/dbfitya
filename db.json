@@ -1,6 +1,28 @@
 {
     "fajas": [
         {
+            "titleSizes": [
+                "TALLA",
+                "CONTORNO (CM)",
+                "CINTURA (CM)",
+                "CADERA (CMC)"
+            ],
+            "sizes": [
+                {
+                    "size": "S",
+                    "value1": "80 - 86",
+                    "value2": "72 - 80",
+                    "value3": "86 - 96"
+                },
+                {
+                    "size": "M",
+                    "value1": "86 - 92",
+                    "value2": "80 - 86",
+                    "value3": "96 - 102"
+                }
+            ]
+        },
+        {
             "colours": [
                 "black",
                 "#F1E8C4"
@@ -83,30 +105,6 @@
                 "XXL"
             ],
             "slug": "cinturilla-fusionado"
-        }
-    ],
-    "guiasTallasLatex": [
-        {
-            "title": [
-                "TALLA",
-                "CONTORNO (CM)",
-                "CINTURA (CM)",
-                "CADERA (CMC)"
-            ],
-            "sizes": [
-                {
-                    "size": "S",
-                    "value1": "80 - 86",
-                    "value2": "72 - 80",
-                    "value3": "86 - 96"
-                },
-                {
-                    "size": "M",
-                    "value1": "86 - 92",
-                    "value2": "80 - 86",
-                    "value3": "96 - 102"
-                }
-            ]
         }
     ]
 }
