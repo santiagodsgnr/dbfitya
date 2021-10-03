@@ -1,7 +1,10 @@
 {
     "fajas": [
         {
-            "colours": ["black", "#F1E8C4"],
+            "colours": [
+                "black",
+                "#F1E8C4"
+            ],
             "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at. Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.",
             "id": 1,
             "image": "https://firebasestorage.googleapis.com/v0/b/fityaweb.appspot.com/o/cinturillas%2Fcinturilla.jpg?alt=media&token=37eb6323-f505-4da7-abaf-f2d05da9794a",
@@ -9,11 +12,20 @@
             "name": "Cinturilla de Avispa en Latex Fusionado",
             "price": 90000,
             "ref": "123321",
-            "sizes": ["S","M","L","XL","XXL"],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
             "slug": "cinturilla-de-avispa-en-latex-fusionado"
         },
         {
-            "colours": ["black", "#F1E8C4"],
+            "colours": [
+                "black",
+                "#F1E8C4"
+            ],
             "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at. Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.",
             "id": 2,
             "image": "https://firebasestorage.googleapis.com/v0/b/fityaweb.appspot.com/o/cinturillas%2Fcinturilla.jpg?alt=media&token=37eb6323-f505-4da7-abaf-f2d05da9794a",
@@ -21,11 +33,20 @@
             "name": "Cinturilla de Avispa en Latex Fusionado",
             "price": 90000,
             "ref": "123321",
-            "sizes": ["S","M","L","XL","XXL"],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
             "slug": "cinturilla-de-avispa"
         },
         {
-            "colours": ["black", "#F1E8C4"],
+            "colours": [
+                "black",
+                "#F1E8C4"
+            ],
             "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at. Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.",
             "id": 3,
             "image": "https://firebasestorage.googleapis.com/v0/b/fityaweb.appspot.com/o/cinturillas%2Fcinturilla.jpg?alt=media&token=37eb6323-f505-4da7-abaf-f2d05da9794a",
@@ -33,11 +54,20 @@
             "name": "Cinturilla de Avispa en Latex Fusionado",
             "price": 90000,
             "ref": "123321",
-            "sizes": ["S","M","L","XL","XXL"],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
             "slug": "cinturilla"
         },
         {
-            "colours": ["black", "#F1E8C4"],
+            "colours": [
+                "black",
+                "#F1E8C4"
+            ],
             "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at. Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat sequi dolorum animi et provident dolore temporibus doloribus facere soluta aperiam, molestias eaque, ipsam laboriosam? Eum eveniet tenetur maxime vel at.",
             "id": 4,
             "image": "https://firebasestorage.googleapis.com/v0/b/fityaweb.appspot.com/o/cinturillas%2Fcinturilla.jpg?alt=media&token=37eb6323-f505-4da7-abaf-f2d05da9794a",
@@ -45,8 +75,38 @@
             "name": "Cinturilla de Avispa en Latex Fusionado",
             "price": 90000,
             "ref": "123321",
-            "sizes": ["S","M","L","XL","XXL"],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
             "slug": "cinturilla-fusionado"
+        }
+    ],
+    "guiasTallasLatex": [
+        {
+            "title": [
+                "TALLA",
+                "CONTORNO (CM)",
+                "CINTURA (CM)",
+                "CADERA (CMC)"
+            ],
+            "sizes": [
+                {
+                    "size": "S",
+                    "value1": "80 - 86",
+                    "value2": "72 - 80",
+                    "value3": "86 - 96"
+                },
+                {
+                    "size": "M",
+                    "value1": "86 - 92",
+                    "value2": "80 - 86",
+                    "value3": "96 - 102"
+                }
+            ]
         }
     ]
 }
