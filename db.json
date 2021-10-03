@@ -3,6 +3,7 @@
         {
             "guiaTallas": [
                 {
+                    "id": 0,
                     "titleSize": ["TALLA", "CONTORNO (CM)", "CINTURA (CM)", "CADERA (CM)"],
                     "sizes": [
                         {
