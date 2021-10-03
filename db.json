@@ -1,24 +1,25 @@
 {
     "fajas": [
         {
-            "guiaTallas": [
+            "id": 0,
+            "titleSize": [
+                "TALLA",
+                "CONTORNO (CM)",
+                "CINTURA (CM)",
+                "CADERA (CM)"
+            ],
+            "sizes": [
                 {
-                    "id": 0,
-                    "titleSize": ["TALLA", "CONTORNO (CM)", "CINTURA (CM)", "CADERA (CM)"],
-                    "sizes": [
-                        {
-                            "size": "S",
-                            "value1": "80 - 86",
-                            "value2": "72 - 80",
-                            "value3": "86 - 96"
-                        },
-                        {
-                            "size": "M",
-                            "value1": "86 - 92",
-                            "value2": "80 - 86",
-                            "value3": "96 - 102"
-                        }
-                    ]
+                    "size": "S",
+                    "value1": "80 - 86",
+                    "value2": "72 - 80",
+                    "value3": "86 - 96"
+                },
+                {
+                    "size": "M",
+                    "value1": "86 - 92",
+                    "value2": "80 - 86",
+                    "value3": "96 - 102"
                 }
             ]
         },
