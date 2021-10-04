@@ -30,7 +30,7 @@
             "id": 2,
             "image": "https://firebasestorage.googleapis.com/v0/b/fityaweb.appspot.com/o/cinturillas%2Fcinturilla.jpg?alt=media&token=37eb6323-f505-4da7-abaf-f2d05da9794a",
             "imageLarge": "https://firebasestorage.googleapis.com/v0/b/fityaweb.appspot.com/o/cinturillas%2Fimage-large-product.png?alt=media&token=8f7dc577-a47f-4e75-bcf3-e53ac2fc70eb",
-            "name": "Cinturilla de Avispa en Latex Fusionado",
+            "name": "Cinturilla de Avispa",
             "price": 90000,
             "ref": "123321",
             "sizes": [
@@ -51,7 +51,7 @@
             "id": 3,
             "image": "https://firebasestorage.googleapis.com/v0/b/fityaweb.appspot.com/o/cinturillas%2Fcinturilla.jpg?alt=media&token=37eb6323-f505-4da7-abaf-f2d05da9794a",
             "imageLarge": "https://firebasestorage.googleapis.com/v0/b/fityaweb.appspot.com/o/cinturillas%2Fimage-large-product.png?alt=media&token=8f7dc577-a47f-4e75-bcf3-e53ac2fc70eb",
-            "name": "Cinturilla de Avispa en Latex Fusionado",
+            "name": "Latex Fusionado",
             "price": 90000,
             "ref": "123321",
             "sizes": [
@@ -72,7 +72,7 @@
             "id": 4,
             "image": "https://firebasestorage.googleapis.com/v0/b/fityaweb.appspot.com/o/cinturillas%2Fcinturilla.jpg?alt=media&token=37eb6323-f505-4da7-abaf-f2d05da9794a",
             "imageLarge": "https://firebasestorage.googleapis.com/v0/b/fityaweb.appspot.com/o/cinturillas%2Fimage-large-product.png?alt=media&token=8f7dc577-a47f-4e75-bcf3-e53ac2fc70eb",
-            "name": "Cinturilla de Avispa en Latex Fusionado",
+            "name": "Latex",
             "price": 90000,
             "ref": "123321",
             "sizes": [
